@@ -1,0 +1,1056 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]>      <html class="no-js oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" style=""><!--<![endif]--><head>
+  <script src="http://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/0241.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//cdn.optimizely.com/js/71760953.js"></script>
+  <meta charset="utf-8" />
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+  <title>Ultrasound Tech</title>
+  <!-- for Mobile Devices... https://developer.mozilla.org/en/Mobile/Viewport_meta_tag/ -->
+  <link href="http://staging.edu.getaheadcollege.com/feed/" title="edu.getaheadcollege.com Feed" type="application/rss+xml" rel="alternate" />
+<!-- base css files --> 
+
+<!-- base script files --> 
+
+<!-- this script is loaded in the footer b/c it is specific to child theme js, hence second param set to true ('scripts', true) -->
+    
+<!--[if lt IE 9]>
+<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]-->
+
+<!-- wp_head() -->
+  
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.24 - http://yoast.com/wordpress/seo/ -->
+<meta content="noindex,follow" name="robots" />
+<link href="http://staging.edu.getaheadcollege.com/facebook/ultrasound-tech-v3-style/" rel="canonical" />
+<meta content="en_US" property="og:locale" />
+<meta content="article" property="og:type" />
+<meta content="Ultrasound Tech" property="og:title" />
+<meta content="Pursue A Health Care Career Today Ultrasound Techs are projected to see a 46% growth in employment by 2022, making it the 6th fastest-growing career.[1] Entry-level salaries range from $44,990 up to $65,860 a year. [2] Learn real-world skills from … Continued" property="og:description" />
+<meta content="http://staging.edu.getaheadcollege.com/facebook/ultrasound-tech-v3-style/" property="og:url" />
+<meta content="edu.getaheadcollege.com" property="og:site_name" />
+<meta content="2014-10-28T08:49:27+00:00" property="article:published_time" />
+<meta content="2014-10-29T12:20:57+00:00" property="article:modified_time" />
+<meta content="http://staging.edu.getaheadcollege.com/assets/usound_fbapp.jpg" property="og:image" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link media="all" type="text/css" href="http://staging.edu.getaheadcollege.com/wp-content/themes/ace-of-baseinstall/vendor/bootstrap/css/normalize.min.css?ver=3.8.1" id="bootstrap-normalize-css" rel="stylesheet" />
+<link media="all" type="text/css" href="http://staging.edu.getaheadcollege.com/wp-content/themes/ace-of-baseinstall/vendor/bootstrap/css/bootstrap.min.css?ver=3.8.1" id="bootstrap-css" rel="stylesheet" />
+<link media="all" type="text/css" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css?ver=3.8.1" id="font-awesome-css" rel="stylesheet" />
+<link media="all" type="text/css" href="http://staging.edu.getaheadcollege.com/wp-content/themes/ace-of-baseinstall-child-fb/style.css?ver=3.8.1" id="style-css" rel="stylesheet" />
+<link media="all" type="text/css" href="http://staging.edu.getaheadcollege.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.7" id="contact-form-7-css" rel="stylesheet" />
+<script src="http://staging.edu.getaheadcollege.com/wp-content/themes/ace-of-baseinstall/vendor/boilerplate/js/modernizr-2.6.2-respond-1.1.0.min.js?ver=3.8.1" type="text/javascript"></script>
+<script src="http://staging.edu.getaheadcollege.com/wp-content/themes/ace-of-baseinstall/vendor/fastclick.js?ver=3.8.1" type="text/javascript"></script>
+<script src="http://code.jquery.com/jquery-1.9.1.min.js?ver=1.9.1" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js?ver=3.8.1" type="text/javascript"></script>
+<script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.0/jquery.validate.min.js?ver=3.8.1" type="text/javascript"></script>
+<script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/additional-methods.min.js?ver=3.8.1" type="text/javascript"></script>
+<script type="text/javascript">
+/* &lt;![CDATA[ */
+var geoIPToken = {"token":"8765FRCfs!87"};
+/* ]]&gt; */
+</script>
+<script src="http://staging.edu.getaheadcollege.com/wp-content/plugins/TRPlugin/js/Rambo_v2.5.min.js?ver=3.8.1" type="text/javascript"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-253874-26', 'getaheadcollege.com');
+  ga('send', 'pageview');
+
+</script><style>
+html.no-touch .form-side .progressBar {position:absolute; top:420px;}
+element.style {
+cursor: pointer;
+}
+html.no-touch .form-side .formnav .backArrow {
+margin-left: 2%;
+position: absolute;
+top: 421px;
+left: 147px;
+}
+
+html.no-touch .form-side .formnav .forwardArrow { 
+top: 421px;
+left: 200px;
+position:absolute;
+}
+.v2-you-more {display:none;}
+/*v3 styles by Andrea */
+
+@media (max-width: 420px) {
+select {
+height: 45px !important;
+}
+
+.form-side select.fone {
+padding-right: 20%;
+}
+.form-side select.ftwo {
+padding-right: 20%;
+}
+
+}
+
+@media all and (max-width: 680px) {
+
+body {font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;
+background-color:#f0f0f0 !important;
+ }
+
+input, textarea, select {
+   -webkit-appearance: none;
+ -moz-appearance: none !important;
+appearance:none !important;
+ }
+
+.form-side #q-10 li label.error {
+margin-top: 6px;
+background-color: transparent !important;
+}
+
+.form-side #tcpaoptin.ex label {
+background: transparent url("/assets/hicheckbox-lng-v2.png") no-repeat 0 0 !important;
+color: gray;
+}
+
+.form-side #tcpaoptin.ex label.active {
+background: transparent url("/assets/hicheckbox-lng-v2.png") no-repeat 0 -374px !important;
+}
+.form-side #postalCode, .form-side li.bi-col input[type="tel"]  {width:89%;}
+.form-side #q-10 label.error {background-color:#ebefee !important;
+border-radius:0px !important;
+}
+
+.v2-you-more {
+text-indent: 0;
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+color: black;
+text-align: left;
+font-size: 1.7em;
+line-height: 29px;
+font-weight: 100;
+/* padding-left: 8px; */
+margin: 0px;
+display:block;
+}
+
+li#q-10 ul li input[type="text"], li#q-10 ul li input[type="tel"] {
+height: 25px;
+padding: 2% 6% 2% 4%;
+margin: 10px 0 5px 0;
+border: 1px solid gray;
+border-radius: 4px;
+font-size: 19px;
+}
+
+.form-side input[type="text"] , .form-side input[type="tel"] {
+width: 89%;
+max-width: 89%;
+}
+
+
+  .form-side #start-copy ul li.proj-growth {
+    background: url("/assets/proj-growth-dark.png") top left no-repeat !important;
+    list-style-type: none;
+    padding-left: 60px;
+    min-height: 60px;
+  }
+ .form-side #start-copy ul li.entry-sal {
+    background: url("/assets/entry-sal-dark.png") top left no-repeat !important;
+    list-style-type: none;
+    padding-left: 60px;
+    min-height: 60px;
+  }
+  .form-side #start-copy ul li.learn-skills {
+    background: url("/assets/learn-skills-dark.png") top left no-repeat !important;
+    list-style-type: none;
+    padding-left: 60px;
+    min-height: 60px;
+  }
+  .form-side #start-copy ul li.months {
+    background: url("/assets/months-dark.png") top left no-repeat !important;
+    list-style-type: none;
+    padding-left: 60px;
+    min-height: 60px;
+  }
+
+.form-side button#cta , .form-side li.bi-col input[type="submit"] {
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  background: #39579a !important;
+  -webkit-border-top-left-radius: 6px;
+  -moz-border-radius-topleft: 6px;
+  border-top-left-radius: 6px;
+  -webkit-border-top-right-radius: 6px;
+  -moz-border-radius-topright: 6px;
+  border-top-right-radius: 6px;
+  -webkit-border-bottom-right-radius: 6px;
+  -moz-border-radius-bottomright: 6px;
+  border-bottom-right-radius: 6px;
+  -webkit-border-bottom-left-radius: 6px;
+  -moz-border-radius-bottomleft: 6px;
+  border-bottom-left-radius: 6px;
+  text-indent: 0;
+  border: 0px;
+  display: block;
+  color: #ffffff;
+ font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-size: 22px;
+  font-weight: 300;
+  font-style: normal;
+  line-height: 22px;
+  width: 100%;
+  padding: 7% 3%;
+  margin: 5% 0%;
+  text-decoration: none;
+  text-align: center;
+  text-shadow: none;
+}
+
+.cform li {color:black;
+font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif  !important; }
+
+.v2-title {color:black !important; 
+font-weight:300 !important;
+font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif  !important; }
+
+select {
+padding: 0.5em 1em 0.5em 0.75em;
+background: #fff url("/assets/select-bg.png") no-repeat right center;
+-webkit-background-size: 1600px 43px;
+-moz-background-size: 1600px 43px;
+background-size: 1600px 43px;
+}
+
+.form-side select.fone {width:100%; padding-right:15%; }
+.form-side select.ftwo {width:100%;}
+
+ .form-side {
+float: right;
+background: #f0f0f0;}
+
+.form-side ul.cform {
+width: 80%;
+margin: 0 auto;
+padding-top:4%;
+padding-bottom:10%;
+}
+
+#start-copy h3{
+color: #3b87c1;
+}
+
+body .form-side h2 {
+font-size: 1.4em;
+color: #FFFFFF;
+text-align: center;
+width: 100%;
+margin: 0 auto;
+padding-bottom: 5%;
+background-color: #39579a;
+margin-top: -10px;
+}
+
+html.touch body .form-side h2 { 
+font-size: 1.4em;
+color: #FFFFFF;
+text-align: center;
+width: 72%;
+margin: 0;
+padding: 0;
+margin-top: 0;
+float: left;
+}
+
+.form-side h2 {
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; }
+
+body .form-side label.toplabel {
+text-indent: 0;
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+color: black;
+text-align: left;
+font-size: 1.7em;
+line-height: 29px;
+}
+
+.form-side .rline .radioline .radiopush label, .form-side .rline .radiolineactive .radiopush label {
+color: gray;
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+.form-side .rline .radioline, .form-side .rline .radiolineactive {
+width: 70%;
+padding: 0;
+margin-bottom: 9px;
+}
+
+.form-side .radioline, .form-side .radiolineactive {border-radius: 10px;
+background-color: white;
+border: 1px solid gray;
+}
+
+.form-side .rline .active label {color:gray;}
+
+.form-side .radiolineactive {
+  background-color: #3b87c1;
+ color: white;
+}
+.form-side .radioline:hover {
+background-color: #dcdcdc;
+}
+
+.form-side .radioline .active .radiopush label {color: gray;}
+.form-side .rline .radioline .radiopush label:hover {
+color:gray;
+}
+
+body .form-side .progressBar {
+border:1px solid gray;
+border-radius:12px;
+height:12px;
+background-color:white;
+box-shadow:none;
+background: white;
+}
+
+
+.form-side .formnav .backArrow {margin-right:17px;}
+
+.form-side .formnav .backArrow, .form-side .formnav .forwardArrow {
+
+}
+
+.form-side label.error {
+color: #F54906;
+font-size: 12px;
+text-transform: uppercase;
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+margin-top: -5px;
+padding: 11px 0 0 0;
+}
+
+body .form-side .showProgress {
+height: 12px;
+border-radius: 12px;
+background: #39579a;
+border-top:0px;
+}
+
+html.touch body .form-side .progressBar{
+border:1px solid gray;
+border-radius:12px;
+height:12px;
+background-color:white;
+box-shadow:none;
+background: white;
+}
+
+html.touch body .form-side .showProgress {
+height: 12px;
+border-radius: 12px;
+background: #39579a;
+border-top:0px;
+}
+
+body .form-side .formnav .backArrow {
+margin-left: 0;
+margin-bottom: 10%;
+padding-right: 4%;
+}
+
+html.touch body .form-side .formnav .backArrow { 
+padding-right:4%;
+}
+
+.form-side select {
+width: 100%;
+margin: 0 auto;
+border: 1px solid gray;
+border-radius: 4px;
+padding: 2% 3%;
+font-size: 18px; }
+
+select {
+height: 50px !important;
+}
+
+footer {
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+}
+
+@media all and (max-width: 768px) { 
+html.no-touch .form-side .formnav .forwardArrow, html.no-touch .form-side .formnav .backArrow, html.no-touch .form-side .formnav .progressBar {display:none;}
+ html.touch body .form-side .formnav .forwardArrow {
+width: 9%;
+padding: 5%;
+box-sizing: border-box;
+position: relative;
+background-color: transparent;
+border-radius: 8px;
+color: #636363;
+cursor: pointer;
+display: inline;
+font-weight: lighter;
+font-size: 0;
+text-align: center;
+height: 32px;
+margin-right: 0;
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+background: url('/assets/forward-arrow.png') no-repeat;
+background-size: 14px;
+text-indent: -99999px;
+margin-bottom: 0px;
+}
+html.touch body .form-side .formnav .backArrow{
+width: 9%;
+padding: 5%;
+box-sizing: border-box;
+position: relative;
+background-color: transparent;
+border-radius: 8px;
+color: #636363;
+cursor: pointer;
+display: inline;
+font-weight: lighter;
+float: left;
+font-size: 0;
+text-align: center;
+height: 32px;
+margin-right: 0;
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+background: url('/assets/back-arrow.png') no-repeat;
+background-size: 13px;
+text-indent: -99999px;
+margin-left: 17px;
+margin-bottom: 0px;
+}
+
+.form-side #prog-form {padding:9%;}
+
+html.touch body .form-side .formnav {
+margin-bottom: 20px;
+padding: 5% 0 1% 0;
+float: left;
+width: 100%;
+top: 0;
+background-color: #39579a;
+margin-top: 0px;
+}
+.prog-label {
+color: gray;
+font-size: 0.9em;
+}
+
+.form-side li.bi-col ul li.sb {border:0px;}
+
+body .form-side .progressBar {
+border:1px solid gray;
+border-radius:12px;
+height:12px;
+background-color:white;
+box-shadow:none;
+background: white;
+width:90%;
+margin: 0 auto;
+float:none;
+margin-bottom:20px;
+}
+
+}
+
+.slide_9 #forward_1 {
+display: none;
+}
+/* increase input height test */
+@media (max-width: 680px) {
+	
+	select {
+		height: 45px !important;
+	}
+}
+@media (max-width: 420px) {
+
+
+.form-side #q-10 li label.error {
+	padding: 0;
+}
+</style>
+<style>
+/* Mobile Test Styles */
+.form-side #tcpaoptin {
+  width: 100%;
+}
+.form-side #tcpaoptin input {
+  display: none;
+}
+.form-side #tcpaoptin label {
+  margin: 0 !important;
+  cursor: pointer;
+  background: transparent url("/assets/hicheckbox-lng.png") no-repeat 0 0;
+}
+.form-side #tcpaoptin label .gapText {
+  float: left;
+  font-size: 42px;
+  line-height: 20px;
+  padding-right: 6px;
+  visibility: hidden;
+  display: inline;
+}
+.form-side #tcpaoptin label.active {
+  background: transparent url("/assets/hicheckbox-lng.png") no-repeat 0 -375px;
+}
+
+@media all and (max-width: 680px) {
+  html {
+    height: 100%;
+  }
+  body {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  body #fullwide {
+    display: none;
+  }
+  body #fullwide h1 {
+    width: 95%;
+    padding-left: 5%;
+  }
+  body footer &gt; .container {
+    padding: 0 2%;
+  }
+  body footer #cite .container {
+    padding-left: 2%;
+  }
+
+  body.slide_8 .cform li#q-8 input[type="text"] {
+    width: 75%;
+  }
+
+  body.slide_10 .form-side .formnav {
+    margin: 30% 0 10% 0;
+  }
+  body.slide_10 .form-side #prog-form {
+ padding:0%;
+  }
+
+  footer {
+    padding: 2% 5% 25% 2%;
+  }
+  footer #cite {
+    border-bottom: 1px solid #98A9CA;
+  }
+  footer #cite .container {
+    padding-left: 0;
+  }
+  footer .footer-links {
+    clear: both;
+    float: none;
+  }
+  footer .footer-links a {
+    padding-left: 0;
+    padding-right: 10px;
+    padding-bottom: 20px;
+  }
+
+  .form-side {
+    clear: both;
+    width: 100%;
+    overflow: visible;
+    max-height: none;
+    border-radius: 0;
+    min-width: 280px;
+    min-height: 50px;
+    /* #tcpaoptin { // Regular checkbox
+      input { 
+        position: absolute;
+        z-index: 1000;
+      }
+      label {
+        margin: 0 !important;
+        padding-left: 25px;
+      }
+    } */
+  }
+
+  .form-side ul.cform &gt; li {
+    min-height: 235px;
+  }
+  .form-side label.toplabel {
+    display: inline-block;
+    font-size: 20px;
+    line-height: 24px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  .form-side #prog-form {
+ padding:0%;
+  }
+  .form-side #start-copy h3 {
+    color: #fff;
+    font-size: 24px;
+    line-height: 30px;
+    font-family: Cambria, George, serif;
+  }
+  .form-side #start-copy ul {
+    margin-top: 30px;
+  }
+  .form-side #start-copy ul li {
+    margin-top: 15px;
+  }
+  .form-side #start-copy ul li.proj-growth {
+    background: url("/assets/proj-growth.png") top left no-repeat;
+    list-style-type: none;
+    padding-left: 60px;
+    min-height: 60px;
+  }
+  .form-side #start-copy ul li.entry-sal {
+    background: url("/assets/entry-sal.png") top left no-repeat;
+    list-style-type: none;
+    padding-left: 60px;
+    min-height: 60px;
+  }
+  .form-side #start-copy ul li.learn-skills {
+    background: url("/assets/learn-skills.png") top left no-repeat;
+    list-style-type: none;
+    padding-left: 60px;
+    min-height: 60px;
+  }
+  .form-side #start-copy ul li.months {
+    background: url("/assets/months.png") top left no-repeat;
+    list-style-type: none;
+    padding-left: 60px;
+    min-height: 60px;
+  }
+  .form-side .rline {
+    text-align: center;
+  }
+  .form-side .rline .radioline #foo:checked::before,
+  .form-side .rline .radioline input[type="radio"], .form-side .rline .radiolineactive #foo:checked::before,
+  .form-side .rline .radiolineactive input[type="radio"] {
+    display: none;
+  }
+  .form-side .rline .radioline .radiopush, .form-side .rline .radiolineactive .radiopush {
+    padding-left: 0;
+  }
+  .form-side .rline .radioline .radiopush label, .form-side .rline .radiolineactive .radiopush label {
+    font-size: 25px;
+    margin: 0;
+    width: 100%;
+    padding: 10% 0;
+  }
+  .form-side .rline .active {
+    background-color: #dcdcdc;
+  }
+  .form-side #startcta &gt; h3 {
+    display: inline;
+  }
+  .form-side #startcta &gt; ul {
+    display: inline;
+  }
+  .form-side .cform input[type="submit"] {
+    font-size: 24px;
+  }
+  .form-side .formnav {
+margin: 0;
+padding: 0;
+float: left;
+width: 100%;
+
+  }
+  .form-side .formnav .backArrow {
+    margin-left: 2%;
+  }
+
+  #content-inner {
+    width: 100%;
+    display: none;
+    color: #fff;
+    background: #3c589d;
+    min-width: 280px;
+    margin-bottom: 0;
+  }
+}
+/*reduce bottom margin of submit button*/
+.form-side li.bi-col input[type="submit"], .form-side li.bi-col button { margin: 5px 0px 30px; }
+</style>
+<!-- start Mixpanel --><script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&amp;&amp;(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&amp;&amp;(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
+for(g=0;g&lt;i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
+mixpanel.init("063f51be450c548dba6d62d2582a2611");</script><!-- end Mixpanel --><meta content="noindex,nofollow" name="robots" />
+<link href="http://staging.edu.getaheadcollege.com/facebook/ultrasound-tech-v3-style/" rel="canonical" />
+<!-- /wp_head() -->
+
+<script async="true" type="text/javascript" src="http://a.adroll.com/j/roundtrip.js"></script><script async="true" type="text/javascript" src="//d.adroll.com/pixel/XJ2W7LZEH5ENNPW4NZ5PRO/E4BDEDEHABG4BFXJK4DQ4U?pv=7720010313.353942&amp;cookie=&amp;keyw="></script><div style="width: 1px; height: 1px; display: inline;"><img width="1" height="1" src="http://d.adroll.com/cm/r/out" alt="" style="border-style:none;" />
+<img width="1" height="1" src="http://d.adroll.com/cm/f/out" alt="" style="border-style:none;" />
+<img width="1" height="1" src="http://d.adroll.com/cm/b/out" alt="" style="border-style:none;" />
+<img width="1" height="1" src="http://d.adroll.com/cm/w/out" alt="" style="border-style:none;" />
+<img width="1" height="1" src="http://d.adroll.com/cm/x/out" alt="" style="border-style:none;" />
+<img width="1" height="1" src="http://d.adroll.com/cm/l/out" alt="" style="border-style:none;" />
+<img width="1" height="1" src="https://www.facebook.com/tr?id=888869451131656&amp;cd[segment_eid]=P3TXDJY5IZHJNHS53YOMCE&amp;ev=NoScript" style="display:none" alt="" /><img width="1" height="1" src="http://www.googleadservices.com/pagead/conversion/976682315/?label=lTyhCLqgqVYQy_rb0QM&amp;guid=ON&amp;script=0&amp;ord=3849981112652063.5" alt="" style="border-style:none;" />
+<img width="1" height="1" src="http://d.adroll.com/cm/g/out?google_nid=adroll5" alt="" style="border-style:none;" />
+<img width="1" height="1" src="http://ib.adnxs.com/seg?add=2043585&amp;t=2" />
+</div><script src="http://bfg01.com/apps/tr_crt/proc/proc.php?q=9e9bc56046&amp;e=v&amp;s=&amp;c=&amp;u=http%3A//staging.edu.getaheadcollege.com/facebook/ultrasound-tech-v3-style/&amp;rnd=204641&amp;t=false"></script></head>
+
+<!--[if !IE]><!--><body class="single single-landing_page postid-262 ultrasound-tech-v3-style post-template post-template-gac-lp-php slide_1" id="notIE"><!--<![endif]-->
+<!--[if gt IE 8]><!-->  <!--<![endif]-->
+<!--[if IE 8]><body id="ie8" class="single single-landing_page postid-262 ultrasound-tech-v3-style post-template post-template-gac-lp-php"><![endif]-->
+
+<!--[if lt IE 8]>
+    <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+  <![endif]-->
+<!-- make sure to close header.php tags somewhere in the template files --><div id="fullwide" class="container">
+	<div class="container">
+		<h1>
+			Ultrasound Tech		</h1>
+		<div class="timer">
+			<p>Get Answers In <br /> Less Than A Minute</p>
+		</div>
+	</div>
+</div>
+<div class="container">
+<!-- This is a comment -->
+  <ul class="menu cf" id="menu-primary-navigation"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6" id="menu-item-6"><a></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7" id="menu-item-7"><a href="/sample-page/">Sample Page</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8" id="menu-item-8"><a></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9" id="menu-item-9"><a href="/sample-page/">Sample Page</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34" id="menu-item-34"><a></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35" id="menu-item-35"><a href="/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36" id="menu-item-36"><a href="/sample-page/">Sample Page</a></li>
+</ul>  <div id="content-inner">
+  
+    
+	
+    
+	<div id="desktabSplash"><img src="/assets/usound_fbapp.jpg" alt="" class="splashimg" />
+<h3>Pursue A Health Care Career Today</h3>
+<ul>
+	<li>Ultrasound Techs are projected to see a <strong>46% growth</strong> in employment by 2022, making it the 6<sup>th</sup> fastest-growing career.<sup>[1]</sup></li>
+	<li>Entry-level salaries range from <strong>$44,990</strong> up to <strong>$65,860</strong> a year. <sup>[2]</sup></li>
+	<li>Learn real-world skills from industry professionals.</li>
+	<li>Complete your degree in as little as 24 months.</li>
+</ul>
+</div>   
+
+
+
+    <!-- Site wide footer (can be removed if customization is needed) --> 
+  </div>
+  <aside class="form-side">
+    <form method="get" action="https://colleges2.education180.com/FindYourDegree/matchSchools" class="" id="prog-form" name="contactform" novalidate="novalidate">
+<input type="hidden" value="4E8D64EF-F516-6187-D12B-2EAD1C6A2ED4" name="leadid_token" id="leadid_token" />
+      <input type="hidden" value="staging.edu.getaheadcollege.com" name="domain" />
+<input type="hidden" value="bcstracktest" name="v" />
+<input type="hidden" value="1" name="spp" />
+<input type="hidden" value="ms_fbultrasound" name="cp" />
+<input type="hidden" value="healthcare" name="aos" />
+<input type="hidden" value="healthcare_health_care-healthcare_health_care-healthcare_health_care-healthcare_health_care" name="ss" />
+<input type="hidden" value="time" name="th" />
+<input type="hidden" value="viewport" name="tp3" />
+<input type="hidden" value="multilead5thschoolinfo" name="tp1" />
+<input type="hidden" value="fb_conprog_ms_schoolinfo_r_v3" name="css" />
+<input type="hidden" value="Ultrasound Tech" name="pageTitle" />
+<input type="hidden" value="set" name="formType" />
+            <div class="mobile-nav">
+<div style="" class="formnav">
+  <div style="" class="progressBar">
+  <div style="width: 0%;" class="showProgress"></div>
+  <div class="pNumber">0%</div>
+</div><div onclick="Rambo.Iterator.back()" style="cursor: pointer;" id="back_1" class="backArrow">&lt; Back</div>
+<h2 class="sub_slide_a_one" style="display: block;">Request More Information</h2> 
+  <div onclick="Rambo.Iterator.forward()" style="cursor: pointer;" id="forward_1" class="forwardArrow">Forward &gt;</div>
+</div> 
+</div> 
+
+<h2 class="sub_slide_a_nine" style="display: none;">Tell Us More About You</h2>
+<!-- alternative solution with Rambo -->
+<!-- 
+<h2 class="form-h-a">Request More Information</h2>
+<h2 class="form-h-b">Tell Us More About You</h2>
+-->
+<ul class="cform">
+<div class="prog-label" style="display: none;">Progress</div>
+
+  
+  <!-- start-copy button needs to contain a next button -->
+  <li style="" class="slide_one rb auto" id="q-1">
+    <label class="toplabel"><i class="fa fa-play"></i>Are you interested in online or campus-based learning?</label>
+    <div class="rline">
+      <span class="radiobtn">
+        <div class="radioline">
+          <input type="radio" id="online" name="site" value="online" class="required" /> 
+          <span class="radiopush"><label for="online">Online</label></span>
+        </div>
+        <div class="radioline">
+          <input type="radio" id="campus" name="site" value="campus" class="required" /> 
+          <span class="radiopush"><label for="campus">Campus</label></span>
+        </div>
+        <div class="radioline">
+          <input type="radio" id="both" name="site" value="both" class="required" /> 
+          <span class="radiopush"><label for="both">Both</label></span>
+        </div>
+        <div style="display: none;" class="val_msg">Please specify the school type you are interested in.</div>
+      </span><!-- end radiobtn -->
+    </div>
+  </li>
+  <li style="display: none;" class="slide_two trans_left dd auto" id="q-2">
+    <label class="toplabel" for="startDate"><i class="fa fa-play"></i>When are you looking to start?</label>
+ <div class="v2-select">
+    <select data-native-menu="false" name="startDate" class="fthree valid">
+      <option class="val_no_go" value="selectOne">Select One</option>
+      <option value="Immediately">Immediately</option>
+      <option value="Less than 1 month">Less than 1 month</option>
+      <option value="1-2 months">1-2 months</option>
+      <option value="2-3 months">2-3 months</option>
+      <option value="4-6 months">4-6 months</option>
+      <option value="7-9 months">7-9 months</option>
+      <option value="10-12 months">10-12 months</option>
+      <option value="Later than 1 year">Later than 1 year</option>
+    </select>
+</div>
+    <div style="display: none;" class="val_msg">Please specify your start date.</div>
+  </li>
+  <li style="display: none;" class="slide_three trans_left dd auto" id="q-3">
+    <label class="toplabel"><i class="fa fa-play"></i>What is your age?</label>
+    <select class="valid" name="ageRange">
+      <option class="val_no_go" value="selectOne">Select One </option>
+      <option value="16">16 and under</option>
+      <option value="17">17-18</option>
+      <option value="19">19-20</option>
+      <option value="21">21-22</option>
+      <option value="23">23-24</option>
+      <option value="25">25-30</option>
+      <option value="31">31-35</option>
+      <option value="36">36-40</option>
+      <option value="41">41-50</option>
+      <option value="51">51-60</option>
+      <option value="61">61+</option>
+    </select>
+    <div style="display: none;" class="val_msg">Please select your age.</div>
+  </li>
+  <li style="display: none;" class="slide_four trans_left dd auto" id="q-4">
+    <label class="toplabel"><i class="fa fa-play"></i>What year did you graduate high school?</label>
+    <select class="valid" name="gradYear">
+      <option class="val_no_go" value="selectOne">Select One</option>
+      <option value="2014">2014</option>
+      <option value="2013">2013</option>
+      <option value="2012">2012</option>
+      <option value="2011">2011</option>
+      <option value="2010">2010</option>
+      <option value="2009">2009</option>
+      <option value="2008">2008</option>
+      <option value="2007">2007</option>
+      <option value="2006">2006</option>
+      <option value="2005">2005</option>
+      <option value="2004">2004</option>
+      <option value="2003">2003</option>
+      <option value="2002">2002</option>
+      <option value="2001">2001</option>
+      <option value="2000">2000</option>
+      <option value="1999">1999</option>
+      <option value="1998">1998</option>
+      <option value="1997">1997</option>
+      <option value="1996">1996</option>
+      <option value="1995">1995</option>
+      <option value="1994">1994</option>
+      <option value="1993">1993</option>
+      <option value="1992">1992</option>
+      <option value="1991">1991</option>
+      <option value="1990">1990</option>
+      <option value="1989">1989</option>
+      <option value="1988">1988</option>
+      <option value="1987">1987</option>
+      <option value="1986">1986</option>
+      <option value="1985">1985</option>
+      <option value="1984">1984</option>
+      <option value="1983">1983</option>
+      <option value="1982">1982</option>
+      <option value="1981">1981</option>
+      <option value="1980">1980</option>
+      <option value="1979">1979</option>
+      <option value="1978">1978</option>
+      <option value="1977">1977</option>
+      <option value="1976">1976</option>
+      <option value="1975">1975</option>
+      <option value="1974">1974</option>
+      <option value="1973">1973</option>
+      <option value="1972">1972</option>
+      <option value="1971">1971</option>
+      <option value="1970">1970</option>
+      <option value="1969">1969</option>
+      <option value="1968">1968</option>
+      <option value="1967">1967</option>
+      <option value="1966">1966</option>
+      <option value="1965">1965</option>
+      <option value="1964">1964</option>
+      <option value="1963">1963</option>
+      <option value="1962">1962</option>
+      <option value="1961">1961</option>
+      <option value="1960">1960</option>
+      <option value="1959">1959</option>
+      <option value="1958">1958</option>
+      <option value="1957">1957</option>
+      <option value="1956">1956</option>
+      <option value="1955">1955</option>
+      <option value="1954">1954</option>
+      <option value="1953">1953</option>
+      <option value="1952">1952</option>
+      <option value="1951">1951</option>
+      <option value="1950">1950</option>
+    </select>
+    <div style="display: none;" class="val_msg">Please specify your year of graduation.</div>
+  </li>
+  <li style="display: none;" class="slide_five trans_left dd auto" id="q-5">
+    <label class="toplabel"><i class="fa fa-play"></i>What is the highest level of education you've accomplished?</label>
+    <select name="educationLevel" class="fone valid">
+      <option value="selectOne" class="val_no_go">Select One</option>
+      <option value="GED">Have GED</option>
+      <option value="High School">Have High School Diploma</option>
+      <option value="Nursing">Nursing Diploma</option>
+      <option value="0-23 college credits">Completed 1-23 credits (1 year) of College</option>
+      <option value="24-47 college credits">Completed 24-47 credits (2 years) of College</option>
+      <option value="48 or more college credits">Completed 48 or more credits (3+ years) of College</option>
+      <option value="Associate">Earned Associate's Degree</option>
+      <option value="Bachelors">Earned Bachelor's Degree</option>
+      <option value="Masters">Earned Master's Degree</option>
+      <option value="Doctoral">Earned Doctoral Degree</option>
+    </select>
+    <div style="display: none;" class="val_msg">Please select your education level.</div>
+  </li>
+  <li style="display: none;" class="slide_sixe trans_left dd auto" id="q-6">
+    <label class="toplabel"><i class="fa fa-play"></i>Were any college credits earned at institutions outside of the United States?</label>
+    <div class="rline">
+      <span class="radiobtn">
+        <div class="radioline">
+          <input type="radio" value="N" name="intlCredit" id="credits2" />
+          <span class="radiopush"><label for="credits2">No</label></span>
+        </div>
+        <div class="radioline">
+          <input type="radio" value="Y" name="intlCredit" id="credits1" />
+          <span class="radiopush"><label for="credits1">Yes</label></span>
+        </div>
+      </span>
+      <div style="display: none;" class="val_msg">Please specify if credits were earned outside of the  U.S.</div>
+    </div>
+  </li>
+  <li style="display: none;" class="slide_seven trans_left dd auto" id="q-7">
+    <label class="toplabel"><i class="fa fa-play"></i>Are you a U.S. citizen or permanent resident of the U.S.?</label>
+    <div class="rline">
+      <span class="radiobtn">
+        <div class="radioline">
+          <input type="radio" class="valid" id="usCitizen_1" name="citizen" value="YES" />
+          <span class="radiopush"><label for="usCitizen_1">Yes</label></span>
+        </div>
+        <div class="radioline">
+          <input type="radio" class="valid" id="usCitizen_2" name="citizen" value="NO" />
+          <span class="radiopush"><label for="usCitizen_2">No</label></span>
+        </div>
+      </span>
+      <div style="display: none;" class="val_msg">Are you a U.S. Citizen?</div>
+    </div>
+  </li>
+  <li style="display: none;" class="slide_eight trans_left rb auto" id="q-8">
+   <label class="toplabel"><i class="fa fa-play"></i>Are you associated with the U.S. Military?</label>
+    <select name="military" class="ftwo valid">
+      <option class="val_no_go" value="selectOne">Select One</option>
+      <option value="No">Not affiliated with the military</option>
+      <option value="AF-Reg">AF - Active Duty (AD)</option>
+      <option value="AF-Res">AF - Selective Reserve (SR)</option>
+      <option value="AF-ResSp">AF - Spouse of AD or SR</option>
+      <option value="AF-Veteran">AF - Veteran</option>
+      <option value="DOD-Civ-GS">AF - Civilian</option>
+      <option value="AR-Reg">AR - Active Duty (AD)</option>
+      <option value="AR-Res">AR - Selective Reserve (SR)</option>
+      <option value="AR-ResSp">AR - Spouse of AD or SR</option>
+      <option value="AR-Veteran">AR - Veteran</option>
+      <option value="DOD-Civ-GS">AR - Civilian</option>
+      <option value="CG-Reg">CG - Active Duty (AD)</option>
+      <option value="CG-Res">CG - Selective Reserve (SR)</option>
+      <option value="CG-ResSp">CG - Spouse of AD or SR</option>
+      <option value="CG-Veteran">CG - Veteran</option>
+      <option value="DOD-Civ-GS">CG - Civilian</option>
+      <option value="MC-Reg">MC - Active Duty (AD)</option>
+      <option value="MC-Res">MC - Selective Reserve (SR)</option>
+      <option value="MC-ResSp">MC - Spouse of AD or SR</option>
+      <option value="MC-Veteran">MC - Veteran</option>
+      <option value="DOD-Civ-GS">MC - Civilian</option>
+      <option value="NV-Reg">NV - Active Duty (AD)</option>
+      <option value="NV-Res">NV - Selective Reserve (SR)</option>
+      <option value="NV-ResSp">NV - Spouse of AD or SR</option>
+      <option value="NV-Veteran">NV - Veteran</option>
+      <option value="DOD-Civ-GS">NV - Civilian</option>
+    </select>
+    <div style="display: none;" class="val_msg">Please specify your military affiliation.</div>
+  </li>
+<li style="display: none;" class="slide_ten trans_left bi-col" id="q-10">
+<h3 class="v2-you-more">Tell Us More About You</h3>    
+<ul>
+      <li id="firstNameLi" class="ti">
+        <!-- <label>First Name</label> -->
+        <input type="text" size="20" name="firstName" id="firstName" placeholder="First Name" value="" class="fone" /> 
+        <div style="display: none;" class="val_msg">Please provide your first name.</div>                                            
+      </li>
+      <li id="lastNameLi" class="ti">
+        <!-- <label>Last Name</label> -->
+        <input type="text" name="lastName" id="lastName" placeholder="Last Name" value="" class="fone" />
+        <div style="display: none;" class="val_msg">Please provide your last name.</div>
+      </li>
+      <li id="address1Li" class="ti">
+        <!-- <label>Address</label> -->
+        <input type="text" name="address1" id="address1" placeholder="Address" value="" class="fone val_address" />
+        <div style="display: none;" class="val_msg">Please provide your current street address.</div>
+      </li>
+      <li id="cityLi" class="ti">
+        <!-- <label>City</label> -->
+        <input type="text" name="city" id="city" placeholder="City" value="" class="fone val_city" />
+        <div style="display: none;" class="val_msg">Please provide your current city.</div>
+      </li>
+      <li class="dd" id="stateLi">
+        <!-- <label>State</label> -->
+        <select name="state" class="ffour">
+          <option value="">Select State</option>
+          <option value="AL">Alabama</option>
+          <option value="AK">Alaska</option>
+          <option value="AZ">Arizona</option>
+          <option value="AR">Arkansas</option>
+          <option value="CA">California</option>
+          <option value="CO">Colorado</option>
+          <option value="CT">Connecticut</option>
+          <option value="DC">Washington DC</option>
+          <option value="DE">Delaware</option>
+          <option value="FL">Florida</option>
+          <option value="GA">Georgia</option>
+          <option value="HI">Hawaii</option>
+          <option value="ID">Idaho</option>
+          <option value="IL">Illinois</option>
+          <option value="IN">Indiana</option>
+          <option value="IA">Iowa</option>
+          <option value="KS">Kansas</option>
+          <option value="KY">Kentucky</option>
+          <option value="LA">Louisiana</option>
+          <option value="ME">Maine</option>
+          <option value="MD">Maryland</option>
+          <option value="MA">Massachusetts</option>
+          <option value="MI">Michigan</option>
+          <option value="MN">Minnesota</option>
+          <option value="MS">Mississippi</option>
+          <option value="MO">Missouri</option>
+          <option value="MT">Montana</option>
+          <option value="NE">Nebraska</option>
+          <option value="NV">Nevada</option>
+          <option value="NH">New Hampshire</option>
+          <option value="NJ">New Jersey</option>
+          <option value="NM">New Mexico</option>
+          <option value="NY">New York</option>
+          <option value="NC">North Carolina</option>
+          <option value="ND">North Dakota</option>
+          <option value="OH">Ohio</option>
+          <option value="OK">Oklahoma</option>
+          <option value="OR">Oregon</option>
+    
